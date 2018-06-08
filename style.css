@@ -1,0 +1,76 @@
+.header {
+	background: #ededed;
+	padding: 20px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.header-text {
+	font-size: 30px;
+	line-height: 30px;
+}
+
+.link {
+	padding: 5px;
+	display: inline-block;
+	background-color: #d1d1d1;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	font-size: 12px;
+}
+.text {
+	margin-top: 10px;
+}
+
+.submit {
+	margin-top: 10px;
+}
+
+/* unvisited link */
+a:link {
+    padding: 5px;
+	display: inline-block;
+	color: #686868;
+	background-color: #e2e2e2;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+/* visited link */
+a:visited {
+    padding: 5px;
+	display: inline-block;
+	color: #686868;
+	background-color: #e2e2e2;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+/* mouse over link */
+a:hover {
+    padding: 5px;
+	display: inline-block;
+	color: #686868;
+	background-color: #e2e2e2;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+/* selected link */
+a:active {
+    padding: 5px;
+	display: inline-block;
+	color: #686868;
+	background-color: #e2e2e2;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-decoration: none;
+	font-size: 12px;
+}
+
